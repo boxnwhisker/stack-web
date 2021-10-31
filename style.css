@@ -294,6 +294,8 @@ a:active {
     width: 100vw;
     height: 45vw;
     align-items: center;
+    background-color: orange;
+
   }
 
   .hero-inline {
