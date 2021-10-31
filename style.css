@@ -416,9 +416,11 @@ a:active {
 @media ( max-width: 480px ) {
   .hero-image {
     width: 100vw;
-    height: 45vw;
+    height: 85vh;
     align-items: center;
     background-color: purple;
+    position: absolute;
+    bottom: 15vh;
   }
 
   .hero-inline {
@@ -450,7 +452,7 @@ a:active {
     width: 12.5vw;
     height: 12.5vw;
     right: 12.5vw;
-    bottom: 12.5vw;
+    bottom: 15vh;
   }
 
   section {
