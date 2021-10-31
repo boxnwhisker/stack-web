@@ -421,7 +421,7 @@ a:active {
     width: 100vw;
     height: 90vh;
     align-items: center;
-    background-color: orange;
+    background-color: red;
     position: absolute;
     bottom: 10vh;
   }
@@ -455,7 +455,7 @@ a:active {
     width: 12.5vw;
     height: 12.5vw;
     right: 12.5vw;
-    bottom: 10vh;
+    bottom: 5vh;
   }
 
   section {
@@ -464,7 +464,7 @@ a:active {
 
   .text {
     width: 80vw;
-    height: 50vw;
+    height: 25vh;
   }
 
   .margin {
@@ -473,7 +473,7 @@ a:active {
 
   .image {
     width: 80vw;
-    height: 100vw;
+    height: 55vh;
   }
 
   p {
