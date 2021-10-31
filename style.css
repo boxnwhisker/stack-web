@@ -309,9 +309,9 @@ a:active {
   }
 
   .hero-object {
-    height: 70vw;
-    width: 70vw;
-    padding: 10vw;
+    height: 80vw;
+    width: 80vw;
+    padding: 0vw;
   }
 
   .hero-highlight {
@@ -442,8 +442,8 @@ a:active {
   }
 
   .hero-object {
-    height: 80vw;
-    width: 80vw;
+    height: 100vw;
+    width: 100vw;
   }
 
   .hero-highlight {
