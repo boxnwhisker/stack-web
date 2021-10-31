@@ -327,6 +327,8 @@ a:active {
 
   section {
     flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 13vh;
   }
 
   .text {
@@ -387,6 +389,16 @@ a:active {
   .footer-image {
     width: 60vw;
     height: 20vh;
+    justify-content: flex-start;
+    position: relative;
+  }
+
+  .image-container {
+    align-items: flex-end;
+  }
+
+  .appstore {
+    align-items: flex-end;
   }
 
   .footer {
@@ -422,7 +434,6 @@ a:active {
     align-items: center;
     position: absolute;
     bottom: 10vh;
-    background-color: pink;
 
   }
 
