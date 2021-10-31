@@ -1,5 +1,4 @@
 html {
-  overflow-x: hidden;
 
 }
 
@@ -414,6 +413,10 @@ a:active {
 }
 
 @media ( max-width: 480px ) {
+  body {
+    overflow-x: hidden;
+  }
+
   .hero-image {
     width: 100vw;
     height: 90vh;
