@@ -335,13 +335,13 @@ a:active {
   }
 
   .margin {
-    height: 10vw;
+    height: 7vh;
   }
 
   .image {
     width: 80vw;
-    height: 55vh;
-    padding: 7vw;
+    height: 53vh;
+    padding: 10vw;
   }
 
   p {
@@ -473,6 +473,11 @@ a:active {
   .image {
     width: 85vw;
     height: 60vh;
+  }
+
+  .mockup {
+    width: 60%;
+    height: auto;
   }
 
   p {
