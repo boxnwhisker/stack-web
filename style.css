@@ -1,5 +1,5 @@
 html {
-
+  overflow-x: hidden;
 }
 
 body {
@@ -9,6 +9,7 @@ body {
   height: 100vh;
   box-sizing: border-box;
   overflow-x: hidden;
+  position: relative;
 }
 
 .hero {
@@ -293,8 +294,6 @@ a:active {
     width: 100vw;
     height: 45vw;
     align-items: center;
-    background-color: orange;
-
   }
 
   .hero-inline {
@@ -413,8 +412,9 @@ a:active {
 }
 
 @media ( max-width: 480px ) {
-  body {
+  html, body {
     overflow-x: hidden;
+    position: relative;
   }
 
   .hero-image {
@@ -492,7 +492,7 @@ a:active {
   }
 
   .title {
-    font-size: 5vw;
+    font-size: 4vw;
     margin-top: 1vh;
     margin-bottom: 2vh;
   }
@@ -513,12 +513,12 @@ a:active {
 
   .footer-text {
     width: 80vw;
-    height: 120vw;
+    height: 65vh;
   }
 
   .footer-image {
     width: 80vw;
-    height: 30vw;
+    height: 15vh;
   }
 
   .footer {
