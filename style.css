@@ -433,7 +433,6 @@ a:active {
     align-items: center;
     position: absolute;
     bottom: 10vh;
-
   }
 
   .hero-inline {
@@ -469,6 +468,7 @@ a:active {
 
   section {
     flex-direction: column;
+    padding-top: 5vh;
   }
 
   .text {
@@ -524,6 +524,7 @@ a:active {
     color: #FFFFFF60;
     font-weight: normal;
     font-size: 2vw;
+    margin-bottom: 1.5vh;
   }
 
   .footer-text {
