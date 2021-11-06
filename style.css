@@ -178,7 +178,7 @@ p {
 }
 
 .description {
-  color: #FFFFFF60;
+  color: #FFFFFF80;
   font-weight: normal;
   font-size: 1.5vw;
   margin-top: 2vh;
@@ -194,7 +194,7 @@ p {
 }
 
 .faq {
-  color: #FFFFFF60;
+  color: #FFFFFF80;
   font-weight: normal;
   font-size: 1vw;
 }
@@ -206,7 +206,7 @@ p {
 }
 
 .warning {
-  color: #FFFFFF60;
+  color: #FFFFFF80;
   font-weight: normal;
   font-size: 0.8vw;
 }
