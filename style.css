@@ -328,7 +328,6 @@ a:active {
   section {
     flex-direction: column;
     justify-content: flex-start;
-    padding-top: 13vh;
   }
 
   .text {
