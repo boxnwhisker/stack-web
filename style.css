@@ -473,7 +473,7 @@ a:active {
   }
 
   .text {
-    width: 85vw;
+    width: 90vw;
     height: 25vh;
   }
 
@@ -482,7 +482,7 @@ a:active {
   }
 
   .image {
-    width: 85vw;
+    width: 90vw;
     height: 60vh;
   }
 
@@ -529,12 +529,12 @@ a:active {
   }
 
   .footer-text {
-    width: 85vw;
+    width: 90vw;
     height: 70vh;
   }
 
   .footer-image {
-    width: 85vw;
+    width: 90vw;
     height: 15vh;
   }
 
