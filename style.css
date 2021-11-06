@@ -474,7 +474,7 @@ a:active {
 
   .text {
     width: 85vw;
-    height: 25vh;
+    height: 20vh;
   }
 
   .margin {
@@ -525,7 +525,7 @@ a:active {
     color: #FFFFFF60;
     font-weight: normal;
     font-size: 2vw;
-    margin-bottom: 2vh;
+    margin-bottom: 1.5vh;
   }
 
   .footer-text {
