@@ -468,7 +468,7 @@ a:active {
 
   section {
     flex-direction: column;
-    padding-top: 5vh;
+    padding-top: 10vh;
   }
 
   .text {
@@ -551,7 +551,7 @@ a:active {
     color: #FFFFFF;
     font-weight: bold;
     font-size: 2vw;
-    margin-bottom: 1vh;
+    margin-bottom: 3vh;
   }
 }
 @media ( max-width: 480px ) {
