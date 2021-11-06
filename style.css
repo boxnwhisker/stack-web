@@ -332,16 +332,16 @@ a:active {
 
   .text {
     width: 80vw;
-    height: 20vh;
+    height: 25vh;
   }
 
   .margin {
-    height: 7vh;
+    height: 5vh;
   }
 
   .image {
     width: 80vw;
-    height: 53vh;
+    height: 50vh;
     padding: 10vw;
   }
 
@@ -525,7 +525,7 @@ a:active {
     color: #FFFFFF60;
     font-weight: normal;
     font-size: 2vw;
-    margin-bottom: 1.5vh;
+    margin-bottom: 1vh;
   }
 
   .footer-text {
