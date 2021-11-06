@@ -552,6 +552,7 @@ a:active {
     color: #FFFFFF;
     font-weight: bold;
     font-size: 2vw;
+    margin-bottom: 1vh;
   }
 }
 @media ( max-width: 480px ) {
